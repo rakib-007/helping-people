@@ -88,3 +88,49 @@ body{
 .cart-3{
     background-color: #f6ebdc ;   
   }
+.half-width{
+    width: 70%;
+   
+  }
+ .contributing-area{
+    display: flex;
+    margin: auto;
+    max-width: 85%;
+    padding: 50px 0px;
+  }
+  .contributing-area-img{
+    height: 350px;
+    width: 100%;
+  }
+  .half-width-text{
+    margin-left: 50px;
+  }
+  .updating-area{
+    margin: auto;
+    max-width: 50%;
+    text-align: center;
+  }
+  .messaging-box{
+    background-color: #FFF4D6;
+    height: 70px;
+    padding-top: 50px;
+  }
+  .messaging-box input{
+    border: none;
+    padding: 10px 70px;
+    border-radius: 5px;
+  }
+  .footer-area{
+    text-align:center ;
+    background-color: rgb(32, 23, 23);
+    color: tomato;
+    padding: 40px;
+    margin-top: 30px;
+  }
+  .footer-area h2{
+    font-family: 'Lobster', cursive;
+
+  }
+  .footer-area p{
+    color: white;
+  }
