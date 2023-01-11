@@ -29,11 +29,12 @@ body{
 }
 .middle-area{
     text-align: center;
+    margin: auto;
+    max-width: 70%;
 }
 .flexiable-area{
     display: flex;
-    margin: auto;
-    max-width: 50%;
+   
     
 }
 .donate-price{
@@ -51,3 +52,39 @@ body{
     border-radius: 5px;
     background-color: #FFEEEE;
 }
+.payments-area{
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 100px;
+   
+}
+.input-payment{
+    padding: 5px 100px;
+    border: none;
+    border-bottom: 2px solid gray;
+}
+.planing-area{
+    text-align: center;
+    margin: auto;
+    max-width: 50%;
+}
+.cart-aontiner{
+    display: flex;
+    margin: auto;
+    max-width: 90%;
+}
+.cart{
+    border-radius: 5px;
+    box-shadow: 5px 5px  20px gray;
+    margin: 40px 40px;
+    padding: 20px;
+}
+.cart-1{
+  background-color: rgba(79, 157, 166, 0.1)) 
+}
+.cart-2{
+    background-color: rgba(255, 89, 89, 0.1)  ;   
+  }
+.cart-3{
+    background-color: #f6ebdc ;   
+  }
